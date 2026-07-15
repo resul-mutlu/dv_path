@@ -1,5 +1,5 @@
 module hello_world;
 	initial begin
-		$display("hello");
+		$display("This is a beginning");
 	end
 endmodule
